@@ -3,12 +3,14 @@
 
 ## 🔧 Tecnologias que estudo e utilizo.
 ###### [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download) -> Editor de código
+###### ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -> Bando de Dados MySQL
 ###### [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=square&logo=git&logoColor=white)](https://git-scm.com/download/win) -> Software para controle de versão
 ###### [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=square&logo=github&logoColor=white)](https://desktop.github.com/) -> Repositório na nuvem para gestão de código
 ###### [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=square&logo=Trello&logoColor=white)](https://trello.com/) -> Metodologias ágeis
 ###### [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=square&logo=google-meet&logoColor=white)](https://meet.google.com/) -> Comunicação audiovisual
 ###### [![Google Forms](https://img.shields.io/badge/google-4285F4?style=square&logo=google&logoColor=white)](https://www.google.com/intl/pt-BR/forms/about/) -> Ferramenta para feedback da aula
 ###### [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white)](https://web.telegram.org/) -> Aplicativo de mensagens
+
 
 ## ℹ️ Autor / Author
 
