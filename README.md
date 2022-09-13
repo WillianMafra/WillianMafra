@@ -10,12 +10,15 @@
 ###### [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=square&logo=google-meet&logoColor=white)](https://meet.google.com/) -> Comunicação audiovisual
 ###### [![Google Forms](https://img.shields.io/badge/google-4285F4?style=square&logo=google&logoColor=white)](https://www.google.com/intl/pt-BR/forms/about/) -> Ferramenta para feedback da aula
 ###### [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white)](https://web.telegram.org/) -> Aplicativo de mensagens
+###### [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://desktop.github.com/) -> Framework PHP
+###### ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -> Framework CSS
+###### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -> HTML
 
 
 ## ℹ️ Autor / Author
 
 ##### Meu nome completo é Willian Matheus Nunes Mafra, tenho 21 anos, sou aluno do programa Entra21 - 2022 e estou estudando PHP!
-<img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/101070387?s=400&u=e91ac980b9f9e7e2e1fb3fba3e5a6522e47155a4&v=4" width="100px;" alt=""/> 
+<img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/101070387?s=400&u=c2653a231aaf5ded2b0eed1accba119347240406&v=4" width="100px;" alt=""/> 
 
 ## 📌Estou aqui!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillianMafra)](https://github.com/WillianMafra)
