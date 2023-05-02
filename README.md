@@ -17,7 +17,7 @@
 
 ## ℹ️ Autor / Author
 
-##### Meu nome completo é Willian Matheus Nunes Mafra, tenho 21 anos, fui aluno do programa Entra21 - 2022 na trilha de PHP, Laravel e MySQL, atualmente estou estudando por conta própria as tecnologias supracitadas.
+##### Meu nome completo é Willian Matheus Nunes Mafra, tenho 22 anos, fui aluno do programa Entra21 - 2022 na trilha de PHP, Laravel e MySQL, atualmente estou estudando por conta própria as tecnologias supracitadas.
 <img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/101070387?s=400&u=c2653a231aaf5ded2b0eed1accba119347240406&v=4" width="100px;" alt=""/> 
 
 ## 📌Estou aqui!
