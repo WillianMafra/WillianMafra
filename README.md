@@ -25,6 +25,6 @@
 
 ## 📌Estou aqui!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillianMafra)](https://github.com/WillianMafra)
-[![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=square&logo=instagram&logoColor=white&link=https://www.instagram.com/willnmafra/)](https://www.instagram.com/willnmafra/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=whit&link=https://www.linkedin.com/in/willian-matheus-nunes-mafra-a4028917a/)](https://www.linkedin.com/in/willnmafra/)
 
 
