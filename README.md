@@ -1,4 +1,4 @@
-## 📚 PHP | Javascript | PostgreSQL | MySQL | Laravel | Codeigniter | Docker
+## 📚 PHP | Javascript | Laravel | VueJs |Codeigniter | Docker | PostgreSQL | MySQL 
 ### ✋ Olá, me chamo Willian!
 
 ## 🔧 Tecnologias que estudo e utilizo.
