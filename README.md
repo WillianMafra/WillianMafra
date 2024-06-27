@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Active+Learner/Researcher"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Active+Learner/Researcher"></a>
 </p>
 
 <br>
@@ -12,9 +12,9 @@
 
 <br>
 
-- Self-taught Fullstack Developer
+- Self-taught Software Developer
 - B2 English Level - 57/100 at EFSET and 83/120 at TOEFL
-- Currently learning about AWS and Flutterflow
+- Currently learning about AWS and React Native
 
 <br>
 
