@@ -14,7 +14,7 @@
 
 - Self-taught Software Developer
 - B2 English Level - 57/100 at EFSET and 83/120 at TOEFL
-- Currently learning about AWS and React Native
+- Currently learning about cybersecurity and pentest.
 
 <br>
 
